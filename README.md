@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rnmolenaar
 - 👀 I’m interested in languages, both programming languages and spoken languages.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 rnmolenaar/rnmolenaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
